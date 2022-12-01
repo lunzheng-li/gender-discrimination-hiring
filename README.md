@@ -22,7 +22,7 @@ The `randomization_1to1.py` takes the `result.json` file obtained using `gender5
 - Convert different salary measures to monthly salary
 - Give company size levels, salary levels and other levels different labels
 - Randomly divide the positions into blocks for each fictitious applicant
-- The output would be a `xlsx` files like `output_sample.xlsx` 
+- The output would be a `xlsx` file like `output_sample.xlsx` 
 
 ## `autoapply.py`
 
