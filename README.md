@@ -1,5 +1,5 @@
 # gender-discrimination-hiring
-This repo contains the code for obtaining the necessary data for the following paper:
+This repo contains codes for obtaining the necessary data for the following paper:
 
 #### *Li K.*, *L. Li*, *W. Si* and *Z. Xu* (2022) "**Childbearing Age and Gender Discrimination in Hiring Decisions: A Large-scale Field Experiment**" 
 
