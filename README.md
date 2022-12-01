@@ -5,7 +5,7 @@ This repo contains the code for obtaining the necessary data for the following p
 
 Please find the paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4199754).
 
-To make sense of the explainations below, you may want to check the experimental desgin part of the paper first.
+To make sense of the explanations below, you may want to check the experimental desgin part of the paper first.
 
 
 ## `gender51job`
