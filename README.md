@@ -18,7 +18,7 @@ The `gender51job` folder contains a Scrapy web-crawling framework.
 ## `randomization_1to1.py`
 
 The `randomization_1to1.py` takes the `result.json` file obtained using `gender51job` and does the following:
-- Data Cleaning includes but restrict to:
+- Data cleaning includes but restricts to:
   - Exclude positions, such as positions require a doctor's degree or pays over a certain amount, that are not in our research scope.
   - Convert different salary measures to monthly salary
   - Give company size levels, salary levels and other levels different labels
