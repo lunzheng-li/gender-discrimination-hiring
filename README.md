@@ -31,6 +31,6 @@ After getting the list of positions (for instance, `output_sample.xlsx`) that a 
 
 `ChromeDriver` is an open source tool for automated testing of webapps. Information on installation and usage of the `ChromeDriver` can be found [here](https://chromedriver.chromium.org/).
 
-`autoapply.py` loops through every item in the positions and automatically send out the applications one by one, and it output a `csv` file with all the positions that have been successfully applied. Note that, for various of reasons, the program fails to submit for some positions, and we may need to submit them manually sometimes.
+`autoapply.py` loops through every item in `output_sample.xlsx` and automatically send out the applications one by one, and it outputs a `csv` file with all the positions that have been successfully applied. Therefore, we can check if all submmissions are successful, and if the program fails to submit for some positions, we can do it manually.
 
 ## `51job.py`
