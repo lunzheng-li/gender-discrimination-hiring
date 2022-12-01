@@ -9,3 +9,11 @@ To make sense of the explainations below, you may want to check the experimenta 
 
 
 ## `gender51job`
+
+The `gender51job` folder contains Scrapy web-crawling framework.
+
+## `randomization_1to1.py`
+
+## `autoapply.py`
+
+## `51job.py`
