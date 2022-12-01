@@ -19,8 +19,8 @@ driver = webdriver.Chrome(executable_path='/usr/local/bin/chromedriver')
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"}
 
-email = 'shl51129@yeah.net'
-password = 'zxpj3wcbsls'
+email = 'credentials for 51job'
+password = 'credentials for 51job'
 
 df = pd.read_excel('zhength24M_L.xlsx')
 key_words = df['company+postion'].values
