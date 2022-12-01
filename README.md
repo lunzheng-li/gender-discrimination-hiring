@@ -34,3 +34,9 @@ After getting the list of positions (for instance, `output_sample.xlsx`) that a 
 `autoapply.py` loops through every item in `output_sample.xlsx` and automatically send out the applications one by one, and it outputs a `csv` file with all the positions that have been successfully applied. Therefore, we can check if all submmissions are successful, and if the program fails to submit for some positions, we can do it manually.
 
 ## `51job.py`
+
+A paid 51job account provides more detailed informatin on a certain position. For instance, "competition level" that is measured by how many people had applied for this position in the past month only shows in a paid mode.
+
+To use `51job.py`, firstly login into the paid account, then get the "cookies" and set the `cookies` variable. 
+
+To use
