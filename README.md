@@ -12,6 +12,8 @@ To make sense of the explainations below, you may want to check the experimental
 
 The `gender51job` folder contains a Scrapy web-crawling framework.
 - It is used to obtain all the relevant positions (and position info such as company size, company type etc.) from [51job.com](https://www.51job.com/)
+- Change the `url` variable in `gender-discrimination-hiring/gender51job/spiders/job.py` for different occupations (IT, Accounting or HR)
+- The output w
 
 ## `randomization_1to1.py`
 
