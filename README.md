@@ -3,7 +3,7 @@ This repo contains the code for obtaining the necessary data for the following p
 
 #### *Li K. K.*, *L. Li*, *W. Si* and *Z. Xu* (2022) "**Childbearing Age and Gender Discrimination in Hiring Decisions: A Large-scale Field Experiment**" 
 
-Please fine the paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4199754).
+Please find the paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4199754).
 
 To make sense of the explainations below, you may want to check the experimenta desgin part of the paper first.
 
