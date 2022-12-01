@@ -44,6 +44,5 @@ class JobSpider(scrapy.Spider):
             item["requirement"] = var["attribute_text"][1:]
             item["company_size"] = var["companysize_text"]
             item["company_industry"] = var["companyind_text"]
-            yield item  # why this code?
-
+            yield item  
         pass
