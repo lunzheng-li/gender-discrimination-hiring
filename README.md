@@ -8,6 +8,4 @@ Please fine the paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id
 To make sense of the explainations below, you may want to check the experimenta desgin part of the paper first.
 
 
-In general, our experiment contains the following steps:
-
-1. Within a particular time span, we get 
+## `gender51job`
