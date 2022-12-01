@@ -72,10 +72,6 @@ def f(x):
 
 
 def salary_level(x):
-    '''
-    The function get the average wage per monthly, label it with "how a steak is cooked"
-    -1: rare; 0 - 10000: medium rare, 10000-20000: medium , 20000-30000 medium well , 30000 以上 well done.
-    '''
     if x < 0:
         level = 'na'
     elif 0 < x <= 10000:
@@ -97,10 +93,6 @@ def salary_level(x):
 
 
 def recruit_level(x):
-    '''
-    The function get the average wage per monthly, label it with "how a steak is cooked"
-    -1: rare; 0 - 10000: medium rare, 10000-20000: medium , 20000-30000 medium well , 30000 以上 well done.
-    '''
     if len(x) == 0:
         level = 'na'
     elif len(x) == 3:
@@ -113,10 +105,6 @@ def recruit_level(x):
 
 
 def exp_level(x):
-    '''
-    The function get the average wage per monthly, label it with "how a steak is cooked"
-    -1: rare; 0 - 10000: medium rare, 10000-20000: medium , 20000-30000 medium well , 30000 以上 well done.
-    '''
     if len(x) == 0:
         level = 'na'
     elif len(x) == 4:
@@ -129,10 +117,6 @@ def exp_level(x):
 
 
 def size_level(x):
-    '''
-    The function get the average wage per monthly, label it with "how a steak is cooked"
-    -1: rare; 0 - 10000: medium rare, 10000-20000: medium , 20000-30000 medium well , 30000 以上 well done.
-    '''
     if len(x) == 0:
         level = 'na'
     elif x in ['150-500人', '500-1000人', '50-150人', '少于50人']:
