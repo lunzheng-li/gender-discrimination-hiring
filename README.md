@@ -27,4 +27,8 @@ The `gender51job` folder contains a Scrapy web-crawling framework.
 
 ## `autoapply.py`
 
+After getting the list of positions (for instance, `output_sample.xlsx`) that a fictitious applicant need to apply, one can of course do it manually. However, as we are sending out applicantions for more than 30,000 positions, we use `ChromeDriver` to automate the process. 
+
+`ChromeDriver` is an open source tool for automated testing of webapps. Information on installation and usage of the `ChromeDriver` can be found [here](https://chromedriver.chromium.org/).
+
 ## `51job.py`
