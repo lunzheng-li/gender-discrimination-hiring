@@ -37,6 +37,4 @@ After getting the list of positions (for instance, `output_sample.xlsx`) that a 
 
 A paid 51job account provides more detailed informatin on a certain position. For instance, "competition level" that is measured by how many people had applied for this position in the past month only shows in a paid mode.
 
-To use `51job.py`, firstly login into the paid account, then get the "cookies" and set the `cookies` variable. 
-
-To use
+To use `51job.py`, firstly login into the paid account, then get the "cookies" and set the `cookies` variable in the program. 
