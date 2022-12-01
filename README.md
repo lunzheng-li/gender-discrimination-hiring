@@ -11,7 +11,7 @@ To make sense of the explainations below, you may want to check the experimental
 ## `gender51job`
 
 The `gender51job` folder contains a Scrapy web-crawling framework.
-- It is used to obtain all the relevant positions (and position info such as company size, company type etc.) from [51job](https://www.51job.com/)
+- It is used to obtain all the relevant positions (and position info such as company size, company type etc.) from [51job.com](https://www.51job.com/)
 
 ## `randomization_1to1.py`
 
